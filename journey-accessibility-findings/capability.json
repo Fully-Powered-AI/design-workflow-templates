@@ -1,0 +1,48 @@
+{
+  "id": "journey-accessibility-findings",
+  "name": "Journey accessibility findings",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.",
+  "directory": "https://fullypowered.ai/capabilities/journey-accessibility-findings/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/software-engineering",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "usability-test-session-plan",
+    "component-inventory-audit",
+    "lead-form-field-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of design and user-experience work, and its own method for turning a reviewer's observations of one user journey into a finding list."
+    }
+  ]
+}

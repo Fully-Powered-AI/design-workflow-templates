@@ -1,0 +1,48 @@
+{
+  "id": "user-research-plan",
+  "name": "User research plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a design decision needs user evidence, the research lead gets one study plan: what the team needs to know, what evidence already exists, method options with their hours, participant criteria, permissions needed, how answers will be read and what the study cannot establish.",
+  "directory": "https://fullypowered.ai/capabilities/user-research-plan/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "usability-test-session-plan",
+    "customer-interview-synthesis",
+    "analysis-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of design and user experience work: the design question, the user groups, the evidence already held, the constraints and the permissions, each in a fixed layout, matched to a fixed menu of study methods, with every gap written as a decision for the research lead and no finding stated."
+    }
+  ]
+}

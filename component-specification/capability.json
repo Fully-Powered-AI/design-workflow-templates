@@ -1,0 +1,47 @@
+{
+  "id": "component-specification",
+  "name": "Component specification",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.",
+  "directory": "https://fullypowered.ai/capabilities/component-specification/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/software-engineering"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "design-handoff-record",
+    "component-inventory-audit",
+    "acceptance-criteria-sheet"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of design work: an approved component design, the existing patterns, the intended contexts and the engineering constraints, each with set column headers, turned into one pattern specification in which nothing is invented and every missing state, missing rule or clash with an existing pattern is a numbered choice for the design-system owner."
+    }
+  ]
+}

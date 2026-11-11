@@ -1,0 +1,89 @@
+# Design handoff record
+
+Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.
+
+*Capability template · Design and user experience · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/design-handoff-record/)*
+
+## The outcome
+
+A static design shows one moment of each screen. The engineer still has to build the moments it leaves out: what the button does while it is working, what the list shows when it is empty, what happens to a long name on a narrow screen. Those gaps often surface mid-build, one message at a time, and each one is answered from memory or guessed.
+
+This capability puts them on one page before the build begins. For every item in the design, the record lists the states it needs, marks each as shown in the design, documented by the component, or unstated. It names the tokens the design uses with their values, the layout shown at each screen width, the rule for each piece of content, and what each control does. Every gap is a numbered question addressed to the design owner. Nothing is filled in on anyone's behalf.
+
+The design owner answers the questions and approves the record. The engineer confirms that every question is resolved and nothing is left to inference.
+
+## Who starts the work, and when
+
+The design owner, or the designer who prepared the design, starts it when an approved design is ready to hand to engineering. Run it again if the design changes after handoff, with the corrected files. The engineer reads the finished record before estimating or building.
+
+## What they supply
+
+- An inventory of the approved design: one row per component in one state at one width, with its screen, kind, content fields and tokens. A person writes this inventory, or exports it from the design tool; the assistant reads only what is written, so for a large design it takes real work.
+- The component references: which states each component documents in your design library.
+- The token list: names and values.
+- The content rules: longest value and what happens when a value is longer.
+- The interaction decisions made so far, if any.
+- A few settings: the smallest supported width, your breakpoints, and who the design owner and engineer are.
+
+## What comes out
+
+One record in a fixed order: items with their states and tokens, responsive behaviour by screen and breakpoint, content rules, interactions, the numbered questions for the design owner, anything set aside, and a sign-off block for the two people who decide. If a section has nothing in it, the record says None.
+
+The record creates no design and invents no intended behaviour. Where the design says nothing, it asks.
+
+See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+
+## Where it fits
+
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where the approved design is the last thing the design owner controls before building starts.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the engineer needs the answers before estimating, not after the first pull request.
+- [Software technology](https://fullypowered.ai/industries/software-technology/), where design and engineering hand work back and forth every sprint.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where long product names, empty carts and failed payments are the screens customers meet most.
+- [Professional services](https://fullypowered.ai/industries/professional-services/), where an agency hands an approved design to a client's engineers.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where one designer and a few engineers cannot afford a week of back-and-forth.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more teams build from the same design library and the unwritten rules stop travelling by word of mouth.
+
+It is a different piece of work from [Acceptance criteria sheet](https://fullypowered.ai/capabilities/acceptance-criteria-sheet/), which turns one story into testable expectations, and from [Project handover readiness check](https://fullypowered.ai/capabilities/project-handover-readiness-check/), which checks a finished project before a receiving team takes it on. This one records what an approved design says and leaves open, before anything is built. It is also separate from [Component specification](https://fullypowered.ai/capabilities/component-specification/), which documents one approved component in full for the design library.
+
+## What has to change for your company
+
+Fix the column headers of your design inventory once, and decide who exports it from your design tool. Write your breakpoints and your smallest supported width into the settings. Know that breakpoint coverage is checked per screen, not per item: an item with no row in a range is not flagged, so a missing item at a width needs your own check. Decide whether your four kinds of item (static, control, field, data) and their fixed lists of states match how your design library is organised. Agree who the design owner is for each product, who answers when they are away, and where the answered record is kept for the engineer.
+
+## What has been checked
+
+Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; it was run twice, and the record of the second run, which was not blind, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+
+Testing in your environment means running it on a design that has already been built, with cases written in advance: a state the library documents but the design does not show, a token that is not in the list, a screen with no tablet layout, a content field with no length. The design owner checks every line against the design before anyone relies on the record. [Acceptance criteria sheet](https://fullypowered.ai/capabilities/acceptance-criteria-sheet/) is the place to turn the answered record into checks for a story.
+
+- Written by Fully Powered AI.
+- Sources and rights reviewed.
+- Editorially reviewed on 10 November 2026.
+- Package format checked by script on every release.
+- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Not yet tested in a client environment.
+
+## What is in this folder
+
+- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
+- [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
+- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
+
+## Start using it
+
+1. Read [EXAMPLE.md](EXAMPLE.md) to see what a good result looks like.
+2. Open [TEMPLATE.md](TEMPLATE.md) and set every item under "What to customize" to your own rules, roles and limits.
+3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
+4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
+
+## Related capabilities
+
+- [Acceptance criteria sheet](https://fullypowered.ai/capabilities/acceptance-criteria-sheet/)
+- [Project handover readiness check](https://fullypowered.ai/capabilities/project-handover-readiness-check/)
+- [Component specification](../component-specification/)
+
+## Make it yours
+
+This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

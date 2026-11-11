@@ -1,0 +1,47 @@
+{
+  "id": "design-handoff-record",
+  "name": "Design handoff record",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.",
+  "directory": "https://fullypowered.ai/capabilities/design-handoff-record/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/software-engineering"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "acceptance-criteria-sheet",
+    "project-handover-readiness-check",
+    "component-specification"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of design work: the approved design, the component references, the tokens, the content rules and the interaction decisions, each with set column headers, checked against a fixed list of states and widths, with every gap written as a question for the design owner and no behaviour assumed."
+    }
+  ]
+}

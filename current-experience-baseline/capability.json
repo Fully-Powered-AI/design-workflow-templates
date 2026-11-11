@@ -1,0 +1,48 @@
+{
+  "id": "current-experience-baseline",
+  "name": "Current experience baseline",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.",
+  "directory": "https://fullypowered.ai/capabilities/current-experience-baseline/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/education",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "component-inventory-audit",
+    "website-findability-audit",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of design and user experience work, and its own method for turning supplied captures and a page list into a baseline of a current site."
+    }
+  ]
+}

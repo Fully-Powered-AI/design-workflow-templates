@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.",
-  "directory": "https://fullypowered.ai/workflow templates/journey-accessibility-findings/",
+  "directory": "https://fullypowered.ai/workflows/journey-accessibility-findings/",
   "primary_function": "functions/design-and-user-experience",
   "functions": [
     "functions/design-and-user-experience",

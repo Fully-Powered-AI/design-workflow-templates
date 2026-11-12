@@ -2,7 +2,7 @@
 
 When a design decision needs user evidence, the research lead gets one study plan: what the team needs to know, what evidence already exists, method options with their hours, participant criteria, permissions needed, how answers will be read and what the study cannot establish.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/user-research-plan/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/user-research-plan/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a study your research lead has a
 
 ## Related workflow templates
 
-- [Usability test session plan](https://fullypowered.ai/workflow templates/usability-test-session-plan/)
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
-- [Analysis plan](https://fullypowered.ai/workflow templates/analysis-plan/)
+- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Analysis plan](https://fullypowered.ai/workflows/analysis-plan/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 When patterns come up for review, the design-system owner gets an inventory built from the library export and its documentation: every component with its naming, token and state gaps, and the pairs that may overlap. Nothing is merged on appearance; the owner decides.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/component-inventory-audit/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-inventory-audit/)*
 
 ## The outcome
 
@@ -87,9 +87,9 @@ Testing in your environment means running it on a library the owner already know
 
 ## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
-- [Dataset profile](https://fullypowered.ai/workflow templates/dataset-profile/)
-- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
+- [Dataset profile](https://fullypowered.ai/workflows/dataset-profile/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
 
 ## Make it yours
 

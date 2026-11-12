@@ -2,7 +2,7 @@
 
 Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/current-experience-baseline/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/current-experience-baseline/)*
 
 ## The outcome
 
@@ -84,8 +84,8 @@ Testing in your environment means running it on a small section of a site the de
 ## Related workflow templates
 
 - [Component inventory audit](../component-inventory-audit/)
-- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

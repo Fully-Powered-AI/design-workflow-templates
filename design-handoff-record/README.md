@@ -2,7 +2,7 @@
 
 Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/design-handoff-record/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-handoff-record/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on a design that has already been b
 
 ## Related workflow templates
 
-- [Acceptance criteria sheet](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
 - [Component specification](../component-specification/)
 
 ## Make it yours

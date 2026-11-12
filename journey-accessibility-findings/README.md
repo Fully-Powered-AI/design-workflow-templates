@@ -2,7 +2,7 @@
 
 When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/journey-accessibility-findings/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/journey-accessibility-findings/)*
 
 ## The outcome
 
@@ -88,9 +88,9 @@ Testing in your environment means running it on a journey your reviewer has alre
 
 ## Related workflow templates
 
-- [Usability test session plan](https://fullypowered.ai/workflow templates/usability-test-session-plan/)
+- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)
 - [Component inventory audit](../component-inventory-audit/)
-- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
 
 ## Make it yours
 

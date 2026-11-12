@@ -2,7 +2,7 @@
 
 When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/component-specification/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-specification/)*
 
 ## The outcome
 
@@ -81,7 +81,7 @@ Testing in your environment means running it on a component that is already docu
 
 - [Design handoff record](../design-handoff-record/)
 - [Component inventory audit](../component-inventory-audit/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
 
 ## Make it yours
 

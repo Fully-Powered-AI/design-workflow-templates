@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.",
-  "directory": "https://fullypowered.ai/workflow templates/current-experience-baseline/",
+  "directory": "https://fullypowered.ai/workflows/current-experience-baseline/",
   "primary_function": "functions/design-and-user-experience",
   "functions": [
     "functions/design-and-user-experience",

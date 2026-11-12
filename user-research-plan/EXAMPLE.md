@@ -1,6 +1,6 @@
 # User research plan: an invented example
 
-*Illustrative example with invented data.* The product, the groups, the evidence, the permissions and every figure below are invented. Product Q is an invented meal-planning app. The research lead ran the capability a few weeks before a design review. First come the inputs the research lead supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* The product, the groups, the evidence, the permissions and every figure below are invented. Product Q is an invented meal-planning app. The research lead ran the workflow template a few weeks before a design review. First come the inputs the research lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

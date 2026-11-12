@@ -2,7 +2,7 @@
 
 When patterns come up for review, the design-system owner gets an inventory built from the library export and its documentation: every component with its naming, token and state gaps, and the pairs that may overlap. Nothing is merged on appearance; the owner decides.
 
-*Capability template · Design and user experience · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/component-inventory-audit/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/component-inventory-audit/)*
 
 ## The outcome
 
@@ -24,7 +24,7 @@ Frontend engineers and designers answer questions about particular components. T
 - **The component export** as a file: one row per component, with its category, status, documented purpose, variants, documented states, tokens used and documentation reference.
 - **The current token definitions** as a file: each token's name, value, type and status.
 
-Both files are text exports from your own library. No connection to a design tool or code repository is needed, images are not read, and the capability never asks for a password, a login code or a key.
+Both files are text exports from your own library. No connection to a design tool or code repository is needed, images are not read, and the workflow template never asks for a password, a login code or a key.
 
 ## What comes out
 
@@ -45,7 +45,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more teams are building on the library than the owner can follow.
 - [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two products' libraries have to be compared before anyone decides what to keep.
 
-It checks a design library's components, names, tokens and states. It does not check a spreadsheet before it is shared ([spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/)), describe what a data export contains ([dataset profile](https://fullypowered.ai/capabilities/dataset-profile/)) or review a website's findability ([website findability audit](https://fullypowered.ai/capabilities/website-findability-audit/)).
+It checks a design library's components, names, tokens and states. It does not check a spreadsheet before it is shared ([spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)), describe what a data export contains ([dataset profile](https://fullypowered.ai/workflows/dataset-profile/)) or review a website's findability ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)).
 
 ## What has to change for your company
 
@@ -58,9 +58,9 @@ It checks a design library's components, names, tokens and states. It does not c
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a library the owner already knows well, with cases written in advance: a name that breaks the rule, a token that was deleted but is still used, a component with no documented states, two components that really are different, and two that really are the same. The owner checks every gap and every pair against the library itself before anyone relies on the inventory. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a library the owner already knows well, with cases written in advance: a name that breaks the rule, a token that was deleted but is still used, a component with no documented states, two components that really are different, and two that really are the same. The owner checks every gap and every pair against the library itself before anyone relies on the inventory. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -71,11 +71,11 @@ Testing in your environment means running it on a library the owner already know
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -85,12 +85,12 @@ Testing in your environment means running it on a library the owner already know
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/)
-- [Dataset profile](https://fullypowered.ai/capabilities/dataset-profile/)
-- [Website findability audit](https://fullypowered.ai/capabilities/website-findability-audit/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Dataset profile](https://fullypowered.ai/workflow templates/dataset-profile/)
+- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

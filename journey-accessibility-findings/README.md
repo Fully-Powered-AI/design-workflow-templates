@@ -2,11 +2,11 @@
 
 When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.
 
-*Capability template · Design and user experience · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/journey-accessibility-findings/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/journey-accessibility-findings/)*
 
 ## The outcome
 
-A review of a whole task, not a pile of notes. The reviewer has walked a journey, such as finding a product and reserving it, and written down what they saw. This capability turns those notes into one list in a fixed order: each finding names the step, the element, the agreed criterion it bears on, what it did to the person's task, and what the evidence is.
+A review of a whole task, not a pile of notes. The reviewer has walked a journey, such as finding a product and reserving it, and written down what they saw. This workflow template turns those notes into one list in a fixed order: each finding names the step, the element, the agreed criterion it bears on, what it did to the person's task, and what the evidence is.
 
 The list is honest about its own reach. A finding that rests only on an automated check or a static design file is marked as not yet observed by a person. Every step shows which hands-on checks were done and which are still owed. The review ends with its limits: what was looked at, with which software, and what was never run.
 
@@ -46,7 +46,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when journeys multiply faster than anyone can review them.
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a new service launches with journeys no one has yet walked with a keyboard.
 
-It is not a check of one form's fields ([lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)), and it is not a test with participants ([usability test session plan](https://fullypowered.ai/capabilities/usability-test-session-plan/)).
+It is not a check of one form's fields ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)), and it is not a test with participants ([usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)).
 
 ## What has to change for your company
 
@@ -59,9 +59,9 @@ It is not a check of one form's fields ([lead form field review](https://fullypo
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; the run was read blind to the published output. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; the run was read blind to the published output. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a journey your reviewer has already walked, with cases written in advance: a finding that rests only on an automated check, a step that exists only as a static design, a row that does not say how it was observed, an observation outside the agreed criteria. The reviewer checks every finding against the evidence row before anyone relies on it. This capability certifies no conformance, gives no view on legal duties and redesigns nothing.
+Testing in your environment means running it on a journey your reviewer has already walked, with cases written in advance: a finding that rests only on an automated check, a step that exists only as a static design, a row that does not say how it was observed, an observation outside the agreed criteria. The reviewer checks every finding against the evidence row before anyone relies on it. This workflow template certifies no conformance, gives no view on legal duties and redesigns nothing.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -72,11 +72,11 @@ Testing in your environment means running it on a journey your reviewer has alre
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -86,12 +86,12 @@ Testing in your environment means running it on a journey your reviewer has alre
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Usability test session plan](https://fullypowered.ai/capabilities/usability-test-session-plan/)
+- [Usability test session plan](https://fullypowered.ai/workflow templates/usability-test-session-plan/)
 - [Component inventory audit](../component-inventory-audit/)
-- [Lead form field review](https://fullypowered.ai/capabilities/lead-form-field-review/)
+- [Lead form field review](https://fullypowered.ai/workflow templates/lead-form-field-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Component inventory audit: an invented example
 
-*Illustrative example with invented data.* The library, the product, the teams and every component, token and figure below are invented. Library Q belongs to an invented invoicing app. The design operations lead ran the capability once the design-system owner had scheduled a quarterly review. First come the inputs the lead supplied, in full, then the inventory the capability returned.
+*Illustrative example with invented data.* The library, the product, the teams and every component, token and figure below are invented. Library Q belongs to an invented invoicing app. The design operations lead ran the workflow template once the design-system owner had scheduled a quarterly review. First come the inputs the lead supplied, in full, then the inventory the workflow template returned.
 
 ## The inputs
 

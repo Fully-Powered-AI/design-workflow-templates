@@ -1,6 +1,6 @@
 # Component specification: an invented example
 
-*Illustrative example with invented data.* The library, the product, the component, the patterns and every token and note below are invented. Library R belongs to an invented invoicing product. The design operations lead ran the capability after the design-system owner approved a design for an inline alert. First come the inputs the lead supplied, in full, then the specification the capability returned.
+*Illustrative example with invented data.* The library, the product, the component, the patterns and every token and note below are invented. Library R belongs to an invented invoicing product. The design operations lead ran the workflow template after the design-system owner approved a design for an inline alert. First come the inputs the lead supplied, in full, then the specification the workflow template returned.
 
 ## The inputs
 

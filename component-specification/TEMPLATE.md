@@ -1,6 +1,6 @@
 # Component specification
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -42,7 +42,7 @@ The assistant works only from what is supplied. It never asks for a password or 
 1. **Check the inputs.** Confirm every header. Stop and ask if two design rows share a variant and state, a topic is not in the list, two notes or two constraints share an id, or two patterns share a name.
 2. **Group the design.** Variants keep the order in which they first appear. States are compared ignoring case.
 3. **Cover the required states.** For each variant, go through the required states in the order of the setting. A state with a design row is shown: quote the description word for word, or print "no description" if it is blank. When a description, note or constraint is printed word for word and has no closing full stop, add one after the closing quotation mark or at the end of the line, and change no other word. A state with no row is not shown: ask a choice. A state in a row that is not in the required list is listed as "Also shown" and is never a gap. Never infer a state from another variant, another pattern or common practice.
-4. **List the tokens.** For each variant, list the distinct token names across its rows in order of first appearance, as supplied. No token list is part of this capability, so none is checked.
+4. **List the tokens.** For each variant, list the distinct token names across its rows in order of first appearance, as supplied. No token list is part of this workflow template, so none is checked.
 5. **Cover the usage topics.** For each of use, avoid, placement and content, list every note with that topic as `note_id (applies_to): note`, word for word. A note whose `applies_to` is neither all nor a variant in the design is set aside in step 7 and does not count here. A topic with no note, or only notes set aside, is not supplied: ask a choice.
 6. **Cover the accessibility topics.** Do the same for name, keyboard, focus, announcement, colour and target, with the same rule for notes set aside. Write no accessibility note of your own and do not judge the notes supplied.
 7. **List the constraints.** Print each constraint as written. A note or constraint whose `applies_to` is neither all nor a variant in the design goes under Set aside, with the question of which variant is meant, and takes no part in steps 3 to 6.

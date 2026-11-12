@@ -2,13 +2,13 @@
 
 Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.
 
-*Capability template · Design and user experience · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/current-experience-baseline/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/current-experience-baseline/)*
 
 ## The outcome
 
 A redesign starts from a written record of what the site is today, not from memory. The design lead holds one inventory of the pages that were captured, what each says and shows, which patterns recur across them and where those patterns differ. Pages that could not be read, such as ones behind a sign-in, ones that change for each visitor or ones nobody captured, are named as outside the evidence so no one assumes they were covered.
 
-The lead confirms the baseline, corrects it and decides the scope of the redesign. The capability records; it does not judge.
+The lead confirms the baseline, corrects it and decides the scope of the redesign. The workflow template records; it does not judge.
 
 ## Who starts the work, and when
 
@@ -20,7 +20,7 @@ The design lead starts it when a redesign is being scoped and the current site n
 - **The captures:** screenshots, saved page text or saved page source, taken by a person with their own access. Nothing is fetched for them.
 - **Settings:** the site's name, why the redesign is happening in one sentence, the page limit, and any names the team already uses for its patterns.
 
-The capability opens no website, takes no capture and never asks for a password, a login code or a key.
+The workflow template opens no website, takes no capture and never asks for a password, a login code or a key.
 
 ## What comes out
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a site built for a smaller company has to carry a larger one.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when a long-lived site has never been written down.
 
-It records a site's pages and patterns from captures. It does not audit an old campaign's assets ([inherited campaign audit](https://fullypowered.ai/capabilities/inherited-campaign-audit/)), plan how files in a shared folder are organized ([shared folder filing plan](https://fullypowered.ai/capabilities/shared-folder-filing-plan/)), or look inside a design library ([component inventory audit](https://fullypowered.ai/capabilities/component-inventory-audit/)). It proposes no design and ranks nothing.
+It records a site's pages and patterns from captures. It does not audit an old campaign's assets ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)), plan how files in a shared folder are organized ([shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)), or look inside a design library ([component inventory audit](https://fullypowered.ai/workflows/component-inventory-audit/)). It proposes no design and ranks nothing.
 
 ## What has to change for your company
 
@@ -54,9 +54,9 @@ It records a site's pages and patterns from captures. It does not audit an old c
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a small section of a site the design lead already knows, with cases written in advance: a page behind a sign-in, a page that shows different content to different people, a capture that stops partway down, a page listed with no capture, and two pages that give different answers to the same question. The design lead checks every record against the capture it names before anyone relies on the baseline. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a small section of a site the design lead already knows, with cases written in advance: a page behind a sign-in, a page that shows different content to different people, a capture that stops partway down, a page listed with no capture, and two pages that give different answers to the same question. The design lead checks every record against the capture it names before anyone relies on the baseline. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -67,11 +67,11 @@ Testing in your environment means running it on a small section of a site the de
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -81,12 +81,12 @@ Testing in your environment means running it on a small section of a site the de
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Component inventory audit](../component-inventory-audit/)
-- [Website findability audit](https://fullypowered.ai/capabilities/website-findability-audit/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
+- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Journey accessibility findings
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Do not use it:
 - to review one form's fields against how the answers are used (lead form field review);
 - to plan or analyse tests with participants (usability test session plan);
 - to check print artwork or a packaging file;
-- to say that a journey passes, conforms or is accessible. That is a judgment for the reviewer, on checks this capability does not run;
+- to say that a journey passes, conforms or is accessible. That is a judgment for the reviewer, on checks this workflow template does not run;
 - to advise on legal duties. That is for the organization's own advisers.
 
 ## Roles

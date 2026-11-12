@@ -1,10 +1,10 @@
 {
   "id": "component-specification",
   "name": "Component specification",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.",
-  "directory": "https://fullypowered.ai/capabilities/component-specification/",
+  "directory": "https://fullypowered.ai/workflow templates/component-specification/",
   "primary_function": "functions/design-and-user-experience",
   "functions": [
     "functions/design-and-user-experience",

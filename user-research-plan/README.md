@@ -2,11 +2,11 @@
 
 When a design decision needs user evidence, the research lead gets one study plan: what the team needs to know, what evidence already exists, method options with their hours, participant criteria, permissions needed, how answers will be read and what the study cannot establish.
 
-*Capability template · Design and user experience · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/user-research-plan/)*
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/user-research-plan/)*
 
 ## The outcome
 
-Design teams often start a study because a study is the thing to do, then find at the readout that it could not answer the question they had. This capability turns the question into a plan before anyone is invited to anything. It splits the decision into the few things the team needs to know, sorts each by the kind of answer it needs, and checks what the team already holds so that nothing is learned twice.
+Design teams often start a study because a study is the thing to do, then find at the readout that it could not answer the question they had. This workflow template turns the question into a plan before anyone is invited to anything. It splits the decision into the few things the team needs to know, sorts each by the kind of answer it needs, and checks what the team already holds so that nothing is learned twice.
 
 For each open question it lays out the methods that could answer it, with the hours each would take against the researcher time you have. It proposes the lowest-hour set, shows how far that set is over or under the time available, and says what each omission would leave unanswered. Participant criteria, a plain screening question for each, the permissions the study depends on and how the answers will be read are all written down before fieldwork. The plan includes a section that most plans leave out: what this study cannot establish.
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/), where the user groups are new and little evidence exists yet.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more teams want studies than the research lead can run, and the plans need a common shape.
 
-It is a different piece of work from [Usability test session plan](https://fullypowered.ai/capabilities/usability-test-session-plan/), which plans the sessions once usability testing has been chosen as the method; from [Customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/), which reads notes from conversations that have already happened; and from [Analysis plan](https://fullypowered.ai/capabilities/analysis-plan/), which prepares the analysis of a dataset in a spreadsheet. This one comes first: it chooses what kind of study the question calls for.
+It is a different piece of work from [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/), which plans the sessions once usability testing has been chosen as the method; from [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/), which reads notes from conversations that have already happened; and from [Analysis plan](https://fullypowered.ai/workflows/analysis-plan/), which prepares the analysis of a dataset in a spreadsheet. This one comes first: it chooses what kind of study the question calls for.
 
 ## What has to change for your company
 
@@ -51,9 +51,9 @@ Check the method menu against what your team can actually run, and change the de
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026: a first run on the earlier wording of the instructions, then a second pass on the current wording by the assistant that made the edits, so not an independent run. The record of both is published with the example. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026: a first run on the earlier wording of the instructions, then a second pass on the current wording by the assistant that made the edits, so not an independent run. The record of both is published with the example. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a study your research lead has already planned, with cases written in advance: a question that no listed method can answer, evidence that is old, a group with no way to be reached, a permission that has been refused, and more hours than the time available. The research lead checks every line against the inputs before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a study your research lead has already planned, with cases written in advance: a question that no listed method can answer, evidence that is old, a group with no way to be reached, a permission that has been refused, and more hours than the time available. The research lead checks every line against the inputs before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on a study your research lead has a
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on a study your research lead has a
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Usability test session plan](https://fullypowered.ai/capabilities/usability-test-session-plan/)
-- [Customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/)
-- [Analysis plan](https://fullypowered.ai/capabilities/analysis-plan/)
+- [Usability test session plan](https://fullypowered.ai/workflow templates/usability-test-session-plan/)
+- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
+- [Analysis plan](https://fullypowered.ai/workflow templates/analysis-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

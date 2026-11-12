@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/design-capability-templates",
+  "repository": "Fully-Powered-AI/design-workflow-templates",
   "title": "Design and User Experience",
   "term": "functions/design-and-user-experience",
-  "capabilities": [
+  "templates": [
     {
       "id": "component-inventory-audit",
       "name": "Component inventory audit",
       "version": "0.1.0",
       "summary": "When patterns come up for review, the design-system owner gets an inventory built from the library export and its documentation: every component with its naming, token and state gaps, and the pairs that may overlap. Nothing is merged on appearance; the owner decides.",
       "path": "component-inventory-audit/",
-      "directory": "https://fullypowered.ai/capabilities/component-inventory-audit/"
+      "directory": "https://fullypowered.ai/workflow templates/component-inventory-audit/"
     },
     {
       "id": "component-specification",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.",
       "path": "component-specification/",
-      "directory": "https://fullypowered.ai/capabilities/component-specification/"
+      "directory": "https://fullypowered.ai/workflow templates/component-specification/"
     },
     {
       "id": "current-experience-baseline",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.",
       "path": "current-experience-baseline/",
-      "directory": "https://fullypowered.ai/capabilities/current-experience-baseline/"
+      "directory": "https://fullypowered.ai/workflow templates/current-experience-baseline/"
     },
     {
       "id": "design-handoff-record",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.",
       "path": "design-handoff-record/",
-      "directory": "https://fullypowered.ai/capabilities/design-handoff-record/"
+      "directory": "https://fullypowered.ai/workflow templates/design-handoff-record/"
     },
     {
       "id": "journey-accessibility-findings",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.",
       "path": "journey-accessibility-findings/",
-      "directory": "https://fullypowered.ai/capabilities/journey-accessibility-findings/"
+      "directory": "https://fullypowered.ai/workflow templates/journey-accessibility-findings/"
     },
     {
       "id": "user-research-plan",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "When a design decision needs user evidence, the research lead gets one study plan: what the team needs to know, what evidence already exists, method options with their hours, participant criteria, permissions needed, how answers will be read and what the study cannot establish.",
       "path": "user-research-plan/",
-      "directory": "https://fullypowered.ai/capabilities/user-research-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/user-research-plan/"
     }
   ]
 }

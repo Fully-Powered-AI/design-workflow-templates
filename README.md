@@ -2,7 +2,7 @@
 
 Design decisions that survive the handoff. These workflow templates take the planning, auditing and recording around design work and give an AI assistant a precise way to prepare it. They produce no design and certify no accessibility conformance: the designer decides.
 
-This repository holds 6 workflow templates for designers and the product people who work with them. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 7 workflow templates for designers and the product people who work with them. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The workflow templates
 
@@ -10,6 +10,7 @@ This repository holds 6 workflow templates for designers and the product people 
 - **[Component specification](component-specification/)**: When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.
 - **[Current experience baseline](current-experience-baseline/)**: Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.
 - **[Design handoff record](design-handoff-record/)**: Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.
+- **[Document accessibility review](document-accessibility-review/)**: Before a designed report, deck or publication goes out, the designer gets a findings list on its headings, reading order, image descriptions, tables and contrast, with every check that could not be made named. The designer verifies each finding; the publication owner approves the fixes.
 - **[Journey accessibility findings](journey-accessibility-findings/)**: When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.
 - **[User research plan](user-research-plan/)**: When a design decision needs user evidence, the research lead gets one study plan: what the team needs to know, what evidence already exists, method options with their hours, participant criteria, permissions needed, how answers will be read and what the study cannot establish.
 

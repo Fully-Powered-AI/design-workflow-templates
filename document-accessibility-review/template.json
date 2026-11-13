@@ -1,0 +1,58 @@
+{
+  "id": "document-accessibility-review",
+  "name": "Document accessibility review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a designed report, deck or publication goes out, the designer gets a findings list on its headings, reading order, image descriptions, tables and contrast, with every check that could not be made named. The designer verifies each finding; the publication owner approves the fixes.",
+  "directory": "https://fullypowered.ai/workflows/document-accessibility-review/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/marketing-and-advertising",
+    "industries/media-and-entertainment",
+    "industries/nonprofits",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "journey-accessibility-findings",
+    "design-handoff-record",
+    "packaging-artwork-handoff-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of design work, and its own method for turning a designer's lists of how one finished document is built into a findings list in five areas."
+    },
+    {
+      "kind": "third-party",
+      "repository": "microsoft/cat-agent-skills",
+      "commit": "3158d47b2ae78e98027487d7a744827931a20d0a",
+      "path": "submissions/accessibility-pass",
+      "licence": "MIT",
+      "contribution": "The ideas behind several checks, in our own words: a description that is filled in but tells the reader nothing, such as a file name or a single general word; an informative image wrongly marked as decorative; contrast over gradients and pictures listed as unmeasured, not counted as meeting the threshold; the usual thresholds of 4.5 to 1 for other text and 3 to 1 for large text; every slide needs a title, heading levels must not jump, a table needs a header row and merged cells are noted; the residue a check cannot see (colour used alone, captions and transcripts, link wording, document language); and an unchecked or clean result is never a pass and no conformance is claimed.",
+      "text_reused": false,
+      "notice": "notices/microsoft-cat-agent-skills-LICENSE.txt"
+    }
+  ]
+}

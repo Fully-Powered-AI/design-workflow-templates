@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/design-handoff-record/"
     },
     {
+      "id": "document-accessibility-review",
+      "name": "Document accessibility review",
+      "version": "0.1.0",
+      "summary": "Before a designed report, deck or publication goes out, the designer gets a findings list on its headings, reading order, image descriptions, tables and contrast, with every check that could not be made named. The designer verifies each finding; the publication owner approves the fixes.",
+      "path": "document-accessibility-review/",
+      "directory": "https://fullypowered.ai/workflows/document-accessibility-review/"
+    },
+    {
       "id": "journey-accessibility-findings",
       "name": "Journey accessibility findings",
       "version": "0.1.0",

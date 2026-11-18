@@ -60,11 +60,11 @@ It reviews one document. A task that runs across several screens of a website or
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record is published with it. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record is published with it. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a document your designer has already corrected, with cases written in advance: a heading marked as body text, an image hidden as decoration, a sidebar read out of place, a contrast ratio exactly on the threshold, and a file supplied without its lists. The designer checks every finding in the file before anyone relies on it. This workflow template certifies no conformance with any standard, gives no view on legal duties and writes no corrections.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -95,4 +95,4 @@ Testing in your environment means running it on a document your designer has alr
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

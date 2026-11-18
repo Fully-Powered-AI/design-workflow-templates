@@ -344,4 +344,4 @@ designer to remove them.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI. Not yet tested in a client environment or as a packaged version.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI. Not yet tested in a client environment or as a packaged version.

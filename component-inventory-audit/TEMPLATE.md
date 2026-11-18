@@ -230,4 +230,4 @@ decides. Never invent a value to fill a blank.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Wording on token-gap order, raw values, summary order, the as-of date, overlaps, case in token names, the Rules applied line and the signal line was clarified after that run, following the published example. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Wording on token-gap order, raw values, summary order, the as-of date, overlaps, case in token names, the Rules applied line and the signal line was clarified after that run, following the published example. Not yet tested in a client environment.

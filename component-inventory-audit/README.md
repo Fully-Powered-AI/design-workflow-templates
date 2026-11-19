@@ -4,6 +4,8 @@ When patterns come up for review, the design-system owner gets an inventory buil
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-inventory-audit/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/component-inventory-audit/?from=gh-design-component-inventory-audit)
+
 ## The outcome
 
 The design-system owner opens a review with one list of every component in the library, instead of a file tree, a documentation site and a token file read side by side. Each component shows its category, status, variants, documented states and the tokens it uses. Against it sit the gaps, numbered: a name that breaks your convention, a token the token file does not define, a state your standard requires that nobody documented.

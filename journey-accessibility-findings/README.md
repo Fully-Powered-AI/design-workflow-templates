@@ -4,6 +4,8 @@ When a user journey is ready for accessibility review, the reviewer gets a findi
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/journey-accessibility-findings/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/journey-accessibility-findings/?from=gh-design-journey-accessibility-findings)
+
 ## The outcome
 
 A review of a whole task, not a pile of notes. The reviewer has walked a journey, such as finding a product and reserving it, and written down what they saw. This workflow template turns those notes into one list in a fixed order: each finding names the step, the element, the agreed criterion it bears on, what it did to the person's task, and what the evidence is.

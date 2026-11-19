@@ -4,6 +4,8 @@ When a design decision needs user evidence, the research lead gets one study pla
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/user-research-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/user-research-plan/?from=gh-design-user-research-plan)
+
 ## The outcome
 
 Design teams often start a study because a study is the thing to do, then find at the readout that it could not answer the question they had. This workflow template turns the question into a plan before anyone is invited to anything. It splits the decision into the few things the team needs to know, sorts each by the kind of answer it needs, and checks what the team already holds so that nothing is learned twice.

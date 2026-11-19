@@ -4,6 +4,8 @@ Before a designed report, deck or publication goes out, the designer gets a find
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/document-accessibility-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/document-accessibility-review/?from=gh-design-document-accessibility-review)
+
 ## The outcome
 
 A finished document that more of its readers can actually use. Annual reports, client decks, press packs and campaign brochures are designed to be seen, and the parts a screen reader relies on are easy to miss: a heading that only looks like one, a photo the file hides, a sidebar read before the story it sits in, a table whose row labels are announced as plain cells, grey text a little too pale on a shaded panel.

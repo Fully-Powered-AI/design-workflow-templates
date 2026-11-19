@@ -4,6 +4,8 @@ Before a redesign, the design lead gets a baseline built from the captures and p
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/current-experience-baseline/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/current-experience-baseline/?from=gh-design-current-experience-baseline)
+
 ## The outcome
 
 A redesign starts from a written record of what the site is today, not from memory. The design lead holds one inventory of the pages that were captured, what each says and shows, which patterns recur across them and where those patterns differ. Pages that could not be read, such as ones behind a sign-in, ones that change for each visitor or ones nobody captured, are named as outside the evidence so no one assumes they were covered.

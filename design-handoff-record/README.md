@@ -4,6 +4,8 @@ Before engineering starts, the design owner gets one record built from the appro
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-handoff-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/design-handoff-record/?from=gh-design-design-handoff-record)
+
 ## The outcome
 
 A static design shows one moment of each screen. The engineer still has to build the moments it leaves out: what the button does while it is working, what the list shows when it is empty, what happens to a long name on a narrow screen. Those gaps often surface mid-build, one message at a time, and each one is answered from memory or guessed.

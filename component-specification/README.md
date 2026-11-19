@@ -4,6 +4,8 @@ When an approved reusable component needs documenting, the design-system owner g
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-specification/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/component-specification/?from=gh-design-component-specification)
+
 ## The outcome
 
 A component that has been approved in a design is not yet a pattern anyone can use. Engineers need to know which variants exist, which states each one has, when to reach for it and when not to, and what it must do for people using a keyboard or a screen reader. If that lives in a designer's head or a comment thread, each team builds its own reading of it.

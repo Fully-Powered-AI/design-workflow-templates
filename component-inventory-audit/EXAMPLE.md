@@ -1,13 +1,13 @@
-# Component inventory audit: an invented example
+# Component inventory audit: an example
 
-*Illustrative example with invented data.* The library, the product, the teams and every component, token and figure below are invented. Library Q belongs to an invented invoicing app. The design operations lead ran the workflow template once the design-system owner had scheduled a quarterly review. First come the inputs the lead supplied, in full, then the inventory the workflow template returned.
+*Illustrative example with sample data.* The library, the product, the teams and every component, token and figure below are illustrative. Library Q belongs to an illustrative invoicing app. The design operations lead ran the workflow template once the design-system owner had scheduled a quarterly review. First come the inputs the lead supplied, in full, then the inventory the workflow template returned.
 
 ## The inputs
 
 ### 1. Audit settings
 
 ```
-Library: Library Q (an invented design library)
+Library: Library Q (an illustrative design library)
 Design-system owner: Design-system owner
 Operator: Design operations lead
 Export date: 2026-11-03
@@ -53,7 +53,7 @@ space.control-padding,12px,space,active
 ## The inventory
 
 ```
-COMPONENT INVENTORY AUDIT: Library Q (an invented design library)
+COMPONENT INVENTORY AUDIT: Library Q (an illustrative design library)
 
 For: Design-system owner. Run by Design operations lead. Export dated 2026-11-03. As of 2026-11-10.
 Rules applied: component names PascalCase; token names default (lowercase letters, digits and hyphens, in at least two groups separated by dots); required states default, hover, focus, disabled; input: default, focus, disabled, error; qualifier words old, new, legacy, copy, temp, final, alt, v plus digits, bare numbers.
@@ -111,5 +111,5 @@ Owner's decision: consolidate / keep / investigate: ______
 
 Next step: Design-system owner checks every gap and every pair against the library. Design-system owner decides what to consolidate, keep or investigate. No library has been changed and no design has been proposed.
 
-Every figure and value traces to the audit settings for Library Q (an invented design library), the component export and the token definitions supplied. The inventory changes nothing and recommends no merge.
+Every figure and value traces to the audit settings for Library Q (an illustrative design library), the component export and the token definitions supplied. The inventory changes nothing and recommends no merge.
 ```

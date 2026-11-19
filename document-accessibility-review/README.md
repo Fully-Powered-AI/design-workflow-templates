@@ -8,7 +8,7 @@ A findings list for a designed report, deck or publication: headings, reading or
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/document-accessibility-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review)*
@@ -43,7 +43,7 @@ One findings list in a fixed order: a summary with every count, numbered finding
 
 Good looks like this: the designer can open any finding, go to the page and element it names and see exactly what to confirm in the file. Every figure in the summary adds up from the lists, nothing is added that the lists do not say, and no correction is written for anyone. The designer proposes the fixes and the publication owner approves them.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -69,7 +69,7 @@ It reviews one document. A task that runs across several screens of a website or
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record is published with it. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried once on its example in Claude on 11 November 2026, and the record is published with it. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a document your designer has already corrected, with cases written in advance: a heading marked as body text, an image hidden as decoration, a sidebar read out of place, a contrast ratio exactly on the threshold, and a file supplied without its lists. The designer checks every finding in the file before anyone relies on it. This workflow template certifies no conformance with any standard, gives no view on legal duties and writes no corrections.
 
@@ -77,13 +77,13 @@ Testing in your environment means running it on a document your designer has alr
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

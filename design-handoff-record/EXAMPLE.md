@@ -1,6 +1,6 @@
-# Design handoff record: an invented example
+# Design handoff record: an example
 
-*Illustrative example with invented data.* The company, the product and every detail are made up. A design owner at an invented parcel-tracking company, Quillon Parcels, is handing one approved screen to the engineer who will build it.
+*Illustrative example with sample data.* The company, the product and every detail are made up. A design owner at an illustrative parcel-tracking company, Quillon Parcels, is handing one approved screen to the engineer who will build it.
 
 ## What the person supplies
 

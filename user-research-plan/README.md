@@ -8,7 +8,7 @@ When a design decision needs user evidence, get one study plan with method optio
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/user-research-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-user-research-plan&from=gh-design-user-research-plan)*
@@ -39,7 +39,7 @@ One plan in a fixed order: the questions and their types, the state of existing 
 
 The plan recruits no one, contacts no participant and states no finding. Where something is missing it asks; it never fills the gap.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Check the method menu against what your team can actually run, and change the de
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026: a first run on the earlier wording of the instructions, then a second pass on the current wording by the assistant that made the edits, so not an independent run. The record of both is published with the example. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026: a first run on the earlier wording of the instructions, then a second pass on the current wording by the assistant that made the edits, so not an independent run. The record of both is published with the example. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a study your research lead has already planned, with cases written in advance: a question that no listed method can answer, evidence that is old, a group with no way to be reached, a permission that has been refused, and more hours than the time available. The research lead checks every line against the inputs before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-user-research-plan&from=gh-design-user-research-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-user-research-plan&from=gh-design-user-research-plan) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a study your research lead has a
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

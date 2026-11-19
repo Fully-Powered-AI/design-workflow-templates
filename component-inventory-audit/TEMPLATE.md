@@ -124,7 +124,7 @@ Every figure and value traces to the audit settings for [library], the component
 
 Proposed tests. Test 1 was tried once, in Claude on 10 November 2026 (the record is published with this template); the others have not been run.
 
-1. **Normal run.** The invented example in the public folder. Expected: eight components, eleven gaps (naming 2, token 5, state 3, documentation 1), three possible overlaps, twenty-three token references in four classes.
+1. **Normal run.** The example in the public folder. Expected: eight components, eleven gaps (naming 2, token 5, state 3, documentation 1), three possible overlaps, twenty-three token references in four classes.
 2. **Header mismatch.** The component file names a column `tags` in place of `tokens_used`. Expected: stops and asks which column is which.
 3. **Repeated identifier.** Two rows share a `component_id`. Expected: stops and reports it.
 4. **Token file missing.** Expected: says token definitions are not supplied, skips the not-defined and deprecated checks, still reports raw values and blank token lists.
@@ -230,4 +230,4 @@ decides. Never invent a value to fill a blank.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. Wording on token-gap order, raw values, summary order, the as-of date, overlaps, case in token names, the Rules applied line and the signal line was clarified after that run, following the published example. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026; the record of that run is published with it. Wording on token-gap order, raw values, summary order, the as-of date, overlaps, case in token names, the Rules applied line and the signal line was clarified after that run, following the published example. Not yet tested in a client environment.

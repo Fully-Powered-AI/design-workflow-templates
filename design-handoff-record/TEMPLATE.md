@@ -278,4 +278,4 @@ name the design owner.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 10 November 2026, run twice, the published record being the second and not blind (the record is published with it); not yet tested in a client environment. Minor edits after review: instruction block made self-contained, format and set-aside wording fixed, and the sibling Component specification named.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 10 November 2026, run twice, the published record being the second and not blind (the record is published with it); not yet tested in a client environment. Minor edits after review: instruction block made self-contained, format and set-aside wording fixed, and the sibling Component specification named.

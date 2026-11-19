@@ -1,10 +1,10 @@
-# User research plan: tried on its invented example
+# User research plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (sections 1 to 6, the invented meal-planning app "Product Q"). No client data was used. The assistant that ran the template did not write it. It read the template and only the inputs of the example, produced the plan, and only then read the example's output to compare.
+The inputs are the example in `public/example.md` (sections 1 to 6, the illustrative meal-planning app "Product Q"). No client data was used. The assistant that ran the template did not write it. It read the template and only the inputs of the example, produced the plan, and only then read the example's output to compare.
 
 ## Inputs used
 
@@ -40,7 +40,7 @@ All the required parts of the output format were produced, in order: title and h
   8. PM4 is granted for product analytics events, but the records period is not stated, so the plan cannot say whether the grant covers the period the research lead will choose.
   9. PM7 covers "the prototype build of the plan screen"; the inputs do not say whether it shows both the list and the grid view that Q3 asks about.
 - **Shortcomings of the template found:** the points above. The acceptance tests in the template are marked "proposed, none has been run"; this trial ran only test 1 (an ordinary plan) in effect, with test 9 (a permission not granted) and test 10 in part. The stop conditions, the type F rule and the declines were not exercised.
-- **Limits of this trial:** one run, in one product, on an invented example, by an assistant that had the template open. It shows the instructions can be followed to a complete plan. It does not show the plan would suit a real research lead or a real study.
+- **Limits of this trial:** one run, in one product, on an example, by an assistant that had the template open. It shows the instructions can be followed to a complete plan. It does not show the plan would suit a real research lead or a real study.
 
 ## Revision note, added after review
 
@@ -48,7 +48,7 @@ The run recorded above was made against the first wording of the instruction blo
 
 ## Second pass, on the current wording
 
-Made on 2026-11-10, after the second review, on the instruction block and output format as they now stand. It was made by the assistant that edited the template after that review, so it is a follow-through of the current block against the same invented inputs, not an independent run. Nothing in the first record above was changed.
+Made on 2026-11-10, after the second review, on the instruction block and output format as they now stand. It was made by the assistant that edited the template after that review, so it is a follow-through of the current block against the same sample inputs, not an independent run. Nothing in the first record above was changed.
 
 The edits it checks: the plan now says the research lead confirms the qualifying answers (step 5 of the block, decision (c)); decision (a) offers cutting participants as well as leaving a method out, with the hours each participant fewer saves in M1 to M4; a granted permission whose note does not clearly cover the planned use is raised in decision (d); and the example's Defaults used line and closing line were completed.
 
@@ -57,4 +57,4 @@ What it produced:
 - **Unchanged:** the questions, evidence statuses, options, proposed set (76 h against 42 h, over by 34 h, 13.0 days against 7.0), the participant counts, the limits and the six decisions, in the same order.
 - **Changed as the edits intend:** decision 1 offers the participant cut (3 h each in M1 or M3); decision 3 asks the research lead to confirm that only "All four" of the last four weeks qualifies for "at least weekly"; decision 4 and the permission lines for PM4 and PM7 now say the notes do not show whether the grant covers the records period (not stated) or whether the prototype shows both views. Observations 7 and 8 of the first run (PM4's period, PM7's views) are now raised in the plan; observation 3 is now put to the research lead.
 - **Still open:** observation 7 of the first run, a version of the hours without G2 while PM1 for G2 is not granted, is still not covered by the template. The facts not in the inputs ("the last four weeks", "meal plan") are still the assistant's proposal and are now named as such at the foot of the example.
-- **Limits of this pass:** one pass, by an assistant that knew the edits it was checking, on an invented example. It shows the current block can be followed to the plan published in the example. It does not show the plan would suit a real research lead.
+- **Limits of this pass:** one pass, by an assistant that knew the edits it was checking, on an example. It shows the current block can be followed to the plan published in the example. It does not show the plan would suit a real research lead.

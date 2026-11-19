@@ -1,10 +1,10 @@
-# Component inventory audit: one trial on its invented example
+# Component inventory audit: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (audit settings, components.csv with eight components, tokens.csv with ten tokens). No client data was used. The model that ran the trial did not write the template.
+The inputs were the example in `public/example.md` (audit settings, components.csv with eight components, tokens.csv with ten tokens). No client data was used. The model that ran the trial did not write the template.
 
 ## What came out
 
@@ -32,7 +32,7 @@ The run followed the instruction block and the output format. In summary:
   - The format has no wording for the case where the as-of date is not supplied.
   - The base name compares after removing qualifier words, so ButtonNew and Button match; the template does not say whether a component's own qualifier gap should also appear as a reason on the overlap. It is left to the reader.
 - **Facts not in the inputs:** none found in this output or in the published example. Every figure and value traces to the settings, components and tokens.
-- **Limits:** this was one run, on invented data, in one product. It shows the instructions can be followed to a complete, checkable output. It does not show how they behave on a real library, a large export or other products.
+- **Limits:** this was one run, on sample data, in one product. It shows the instructions can be followed to a complete, checkable output. It does not show how they behave on a real library, a large export or other products.
 
 ## Since the trial
 

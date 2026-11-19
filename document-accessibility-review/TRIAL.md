@@ -1,10 +1,10 @@
-# Document accessibility review: trial on the invented example
+# Document accessibility review: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the invented example in [example.md](example.md): the review settings, structure list, table list, contrast list and checker report for the invented "Annual review 2026" of an invented arts charity. No client data was used. This is a second run, made after a review of the first led to changes to the instruction block and the output format (the default contrast thresholds, the exact finding wordings, what counts as one item not checked, slide counts for decks, and blank lines between findings). The first run's record is replaced by this one. The run was done by the same session that made those changes, so it was not blind: it applied the instruction block and the output format to the example's inputs only, without copying from the example's findings list, and compared the result with that list afterwards.
+The inputs were the example in [example.md](example.md): the review settings, structure list, table list, contrast list and checker report for the invented "Annual review 2026" of an illustrative arts charity. No client data was used. This is a second run, made after a review of the first led to changes to the instruction block and the output format (the default contrast thresholds, the exact finding wordings, what counts as one item not checked, slide counts for decks, and blank lines between findings). The first run's record is replaced by this one. The run was done by the same session that made those changes, so it was not blind: it applied the instruction block and the output format to the example's inputs only, without copying from the example's findings list, and compared the result with that list afterwards.
 
 ## Inputs used
 
@@ -128,4 +128,4 @@ Every finding traces to a row in the lists supplied, as of 2026-11-10. The revie
 - **The count of items not checked was no longer a guess.** Counting each listed item once on the first six lines (one description, one page, one merged-cell table, one varying pair, one unmeasured pair) gave 5, as the block now says.
 - **Still true, and now stated in the template:** a blank intended order on page 1 leaves that whole page's reading order unchecked, and a figure that looks decorative (seq 18) is left out of the reading order and raised under alternative text only. This run did not test the new slide-count rule for decks, because the example is a PDF.
 - **No fact appears in the output that is not in the inputs.** Content and alternative text are quoted as supplied.
-- **What this trial does not show.** It was one run, in one product, on a small invented document, by the session that edited the template. It did not test the fifteen acceptance tests in the template, which still describe themselves as proposed. It says nothing about a real document, a real designer's lists or a larger file. The designer's check of each finding in the file was not tested.
+- **What this trial does not show.** It was one run, in one product, on a small illustrative document, by the session that edited the template. It did not test the fifteen acceptance tests in the template, which still describe themselves as proposed. It says nothing about a real document, a real designer's lists or a larger file. The designer's check of each finding in the file was not tested.

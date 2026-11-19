@@ -1,6 +1,6 @@
-# Current experience baseline: an invented example
+# Current experience baseline: an example
 
-*Illustrative example with invented data.* Marlowe Example Store is an invented online outdoor-gear shop, and Dana is an invented design lead; no real business or person is described. The pages, addresses, captures and words below were written for this example, and the addresses do not exist. A designer captured seven pages on 12 and 13 October 2026 and listed nine. The design lead supplied everything below, and the assistant ran the baseline from these files alone.
+*Illustrative example with sample data.* Marlowe Example Store is an illustrative online outdoor-gear shop, and Dana is an illustrative design lead; no real business or person is described. The pages, addresses, captures and words below were written for this example, and the addresses do not exist. A designer captured seven pages on 12 and 13 October 2026 and listed nine. The design lead supplied everything below, and the assistant ran the baseline from these files alone.
 
 ## The inputs
 

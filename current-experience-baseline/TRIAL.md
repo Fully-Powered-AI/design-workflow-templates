@@ -1,10 +1,10 @@
-# Trial: Current experience baseline, run on its invented example
+# Trial: Current experience baseline, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This is one run of the workflow template on its own invented example. The inputs are the invented ones in [the example](example.md) (Marlowe Example Store: the request, the nine-row page list and the seven described captures); no client data was used. The run was made by a model that had not written the template. It read the template and only the inputs of the example, followed the instructions block and the output format, and compared its result with the published example afterwards. The "captures" are written descriptions of screenshots, not image files, so this run did not test reading real images.
+This is one run of the workflow template on its own example. The inputs are the sample ones in [the example](example.md) (Marlowe Example Store: the request, the nine-row page list and the seven described captures); no client data was used. The run was made by a model that had not written the template. It read the template and only the inputs of the example, followed the instructions block and the output format, and compared its result with the published example afterwards. The "captures" are written descriptions of screenshots, not image files, so this run did not test reading real images.
 
 ## What came out
 

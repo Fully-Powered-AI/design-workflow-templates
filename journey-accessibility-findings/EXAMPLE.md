@@ -1,13 +1,13 @@
-# Journey accessibility findings: an invented example
+# Journey accessibility findings: an example
 
-*Illustrative example with invented data.* Client T is an invented regional tool-hire company, and its website, the journey, the design files, the software named only by letter, the roles and every observation below are invented. The accessibility reviewer walked one journey, reserving a tool for a weekend, and wrote down what was seen. The assistant organized those notes into the finding list. Nothing here describes a real product or a real review.
+*Illustrative example with sample data.* Client T is an illustrative regional tool-hire company, and its website, the journey, the design files, the software named only by letter, the roles and every observation below are illustrative. The accessibility reviewer walked one journey, reserving a tool for a weekend, and wrote down what was seen. The assistant organized those notes into the finding list. Nothing here describes a real product or a real review.
 
 ## The inputs
 
 ### 1. Review settings
 
 ```
-Client: Client T (an invented tool-hire company)
+Client: Client T (an illustrative tool-hire company)
 Journey: Reserve a tool for a weekend
 Task: A customer finds a tool, picks pickup and return dates, enters contact details and receives a reservation number.
 As-of date: 2026-11-09

@@ -149,7 +149,7 @@ Every statement traces to the evidence rows and files supplied, as of [date]. Th
 
 ## Acceptance tests
 
-Proposed tests. The run on the invented example (see the trial record) exercised the grouping, blank-criterion, impact, automated-only, unclear-row, static-design and row-count cases; none has been run as a stand-alone test.
+Proposed tests. The run on the example (see the trial record) exercised the grouping, blank-criterion, impact, automated-only, unclear-row, static-design and row-count cases; none has been run as a stand-alone test.
 
 1. **Grouping.** Two problem rows at the same step, on the same element, against the same criterion. Expected: one finding listing both rows. The same element against a different criterion gives a second finding.
 2. **Header mismatch.** The evidence file has a column called `notes` where `observation` is expected. Expected: stops and asks which column is which.
@@ -258,4 +258,4 @@ it; tell the reviewer to remove it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026, with the record published beside it and read blind to the published output. Not yet tested in a client environment or as a packaged version.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026, with the record published beside it and read blind to the published output. Not yet tested in a client environment or as a packaged version.

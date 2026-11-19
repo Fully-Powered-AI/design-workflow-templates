@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [the worked example](example.md): the settings, the approved design, the existing patterns, the notes and the constraints for an invented inline alert in an invented library. No client data was used. The run was made by a model that did not write the template.
+The inputs are the example in [the worked example](example.md): the settings, the approved design, the existing patterns, the notes and the constraints for an illustrative inline alert in an illustrative library. No client data was used. The run was made by a model that did not write the template.
 
 ## What came out
 
@@ -13,7 +13,7 @@ The template was amended after the first run, in response to review: the existin
 The assistant followed the instruction block and the output format on those inputs. This is the full output of the second run.
 
 ```
-COMPONENT SPECIFICATION: Inline alert, Library R (an invented design library)
+COMPONENT SPECIFICATION: Inline alert, Library R (an illustrative design library)
 
 For: Design-system owner and Implementing engineer. Prepared 2026-11-10 by Design operations lead, from 8 design rows, 2 existing patterns, 7 notes, 2 constraints and the settings.
 Column check: all headers matched.
@@ -120,4 +120,4 @@ Draft for the Design-system owner. No component has been created or changed, no 
   - The closing line says "Draft for the Design-system owner", using the role text from the settings. That follows the template.
 - **Fixed form of the Overlap line:** this run used the fixed form added after the first run. The first run had no fixed form and happened to word it the same way.
 - **Not exercised:** the stop conditions, the "Also shown" line with a real state, an optional file left out, a duplicate row and the refusal wording. The acceptance tests for those remain unrun.
-- **Not tested:** these were two runs on one invented example in one product. It says nothing about a real design library or about how other products would handle the template.
+- **Not tested:** these were two runs on one example in one product. It says nothing about a real design library or about how other products would handle the template.

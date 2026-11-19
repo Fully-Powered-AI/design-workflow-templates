@@ -1,4 +1,4 @@
-# Trial: Design handoff record, run on its invented example
+# Trial: Design handoff record, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Quillon Parcels, a made-up parcel-tracking company). No client data was used.
+The inputs are the example in `public/example.md` (Quillon Parcels, a made-up parcel-tracking company). No client data was used.
 
 ## History of this record
 
@@ -114,5 +114,5 @@ Draft for the design owner. No design has been created or changed, no behaviour 
 
 - Breakpoint coverage is checked per screen, not per item. In the Small range the record lists only D1 and D3 at 390; the Track button D2 has no row there and no question is raised. This is how the procedure is written, not a slip in the run.
 - After this run the instruction block was tightened to state details the procedure already contained (case-insensitive matching, state order, the stop message, extra columns, coverage per screen). The output format and the example inputs did not change, and the block was not re-run after that wording change.
-- This run was not blind (see the history above), and it exercised only the invented example. The decline rules, the stop conditions and the optional-file paths (no component references, no token list, no content rules, no interaction decisions) have not been run.
+- This run was not blind (see the history above), and it exercised only the example. The decline rules, the stop conditions and the optional-file paths (no component references, no token list, no content rules, no interaction decisions) have not been run.
 - The wording for a content rule that matches no field (a set-aside reason with no question) did not arise in this example.

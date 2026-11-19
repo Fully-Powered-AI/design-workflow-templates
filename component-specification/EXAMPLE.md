@@ -1,13 +1,13 @@
-# Component specification: an invented example
+# Component specification: an example
 
-*Illustrative example with invented data.* The library, the product, the component, the patterns and every token and note below are invented. Library R belongs to an invented invoicing product. The design operations lead ran the workflow template after the design-system owner approved a design for an inline alert. First come the inputs the lead supplied, in full, then the specification the workflow template returned.
+*Illustrative example with sample data.* The library, the product, the component, the patterns and every token and note below are illustrative. Library R belongs to an illustrative invoicing product. The design operations lead ran the workflow template after the design-system owner approved a design for an inline alert. First come the inputs the lead supplied, in full, then the specification the workflow template returned.
 
 ## The inputs
 
 ### 1. Settings
 
 ```
-Library: Library R (an invented design library)
+Library: Library R (an illustrative design library)
 Component: Inline alert
 Design reference: Inline alert design, version 2
 Purpose: Shows a message next to the content it concerns
@@ -65,7 +65,7 @@ K2,success,Message text is limited to 160 characters
 ## The specification
 
 ```
-COMPONENT SPECIFICATION: Inline alert, Library R (an invented design library)
+COMPONENT SPECIFICATION: Inline alert, Library R (an illustrative design library)
 
 For: Design-system owner and Implementing engineer. Prepared 2026-11-10 by Design operations lead, from 8 design rows, 2 existing patterns, 7 notes, 2 constraints and the settings.
 Column check: all headers matched.

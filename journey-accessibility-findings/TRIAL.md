@@ -1,10 +1,10 @@
-# Journey accessibility findings: tried on its invented example
+# Journey accessibility findings: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md) (Client T, an invented tool-hire company). No client data was used. The run used the template's instruction block and output format, and the assistant read the example's finding list only after producing its own.
+The inputs were the example in [example.md](example.md) (Client T, an illustrative tool-hire company). No client data was used. The run used the template's instruction block and output format, and the assistant read the example's finding list only after producing its own.
 
 ## Inputs used
 
@@ -13,7 +13,7 @@ The four inputs under "The inputs" in example.md: the review settings, steps.csv
 ## What came out
 
 ```
-JOURNEY ACCESSIBILITY FINDINGS: Reserve a tool for a weekend, Client T (an invented tool-hire company)
+JOURNEY ACCESSIBILITY FINDINGS: Reserve a tool for a weekend, Client T (an illustrative tool-hire company)
 
 For: Client T's design owner, with the reviewer engaged by Client T. Task: A customer finds a tool, picks pickup and return dates, enters contact details and receives a reservation number. As of 2026-11-09. Receives the list: design owner, with the accessibility reviewer.
 
@@ -142,7 +142,7 @@ Every statement traces to the evidence rows and files supplied, as of 2026-11-09
 - **Every required part was produced.** The summary, the step-by-step section, nine findings, the three groups of observations that did not become findings, and the limits all came out. The four counts added up (10 + 5 + 1 + 1 = 17). No stop condition applied, because the inputs were clean.
 - **Agreement with the published example.** The finding count, numbering, task-impact labels, evidence-strength labels, hands-on check totals (7 of 20 done; 13 still required) and the groups of observations match. My first count of done checks was 8, a slip of mine in adding up step 3 (it has two checks done, not three), caught by recounting each step; the template's rule is clear and gives 7.
 - **Differences from the published example, all in wording and layout, none in substance:**
-  - Title line: I added "(an invented tool-hire company)" after Client T; the example has just "Client T".
+  - Title line: I added "(an illustrative tool-hire company)" after Client T; the example has just "Client T".
   - "For:" line: I wrote "the reviewer engaged by Client T" as the reviewer, copying the review settings; the example says "the accessibility reviewer".
   - "Manual check still required": I wrote "screen reader, step 1, not done"; the example writes "screen reader at step 1: not done".
   - Finding 5 has two evidence rows. I gave each its own "Evidence:" line; the example runs them together in one line.
@@ -156,7 +156,7 @@ Every statement traces to the evidence rows and files supplied, as of 2026-11-09
   - A contrast measurement taken on design-file values (E13) counts as a done contrast check under the rule "whatever its result", and appears in the limits as a contrast method. That follows the text, but a reviewer may not expect a design-file measurement to count as hands-on.
   - The template does not say what status a contrast check has on a static design with no contrast row (step 5). By the rule it is "not done"; the example agrees.
 - **Nothing in either output is missing from the inputs.** Every statement in my output and in the example's traces to the review settings and the step, criteria and evidence rows. The example's output adds no fact of its own.
-- **Limits of this trial.** One run, by one model, on one invented example. It shows the instructions can be followed to the published result; it does not show how the template performs on a real journey, and it says nothing about conformance with any standard.
+- **Limits of this trial.** One run, by one model, on one example. It shows the instructions can be followed to the published result; it does not show how the template performs on a real journey, and it says nothing about conformance with any standard.
 
 ## Changes to the template after this run
 

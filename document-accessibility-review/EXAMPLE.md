@@ -1,6 +1,6 @@
-# Document accessibility review: an invented example
+# Document accessibility review: an example
 
-*Illustrative example with invented data.* Client K is an invented regional arts charity and Studio M an invented design studio. The annual review, its pages, the funders named only by letter, the tools named only by letter, the roles and every row below are invented. The designer at Studio M listed how the finished PDF is built and what each element looks like, measured contrast and pasted the checker's items. The assistant compared the lists and returned the findings list. Nothing here describes a real document or a real review.
+*Illustrative example with sample data.* Client K is an illustrative regional arts charity and Studio M an illustrative design studio. The annual review, its pages, the funders named only by letter, the tools named only by letter, the roles and every row below are illustrative. The designer at Studio M listed how the finished PDF is built and what each element looks like, measured contrast and pasted the checker's items. The assistant compared the lists and returned the findings list. Nothing here describes a real document or a real review.
 
 ## The inputs
 
@@ -10,7 +10,7 @@
 Document: Annual review 2026
 File: annual-review-2026-v3.pdf
 Kind: PDF
-Organization: Client K (an invented regional arts charity)
+Organization: Client K (an illustrative regional arts charity)
 Audience: members, funders and the public
 As-of date: 2026-11-10
 Designer: the designer at Studio M

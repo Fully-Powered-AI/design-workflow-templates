@@ -407,4 +407,4 @@ return the plan.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 (a first run, then a second pass on the current wording by the assistant that made the edits), with the record published in `public/trial.md`; not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried on its example in Claude on 10 November 2026 (a first run, then a second pass on the current wording by the assistant that made the edits), with the record published in `public/trial.md`; not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

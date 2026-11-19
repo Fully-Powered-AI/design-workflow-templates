@@ -1,10 +1,17 @@
 # Document accessibility review
 
-Before a designed report, deck or publication goes out, the designer gets a findings list on its headings, reading order, image descriptions, tables and contrast, with every check that could not be made named. The designer verifies each finding; the publication owner approves the fixes.
+A findings list for a designed report, deck or publication: headings, reading order, image descriptions, tables and contrast, and what went unchecked.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/document-accessibility-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Document accessibility review on our website](https://fullypowered.ai/workflows/document-accessibility-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/document-accessibility-review/?from=gh-design-document-accessibility-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/document-accessibility-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review)*
 
 ## The outcome
 
@@ -40,16 +47,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where the designer checks the file before it leaves the studio.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns the reports, guides and brochures that carry the brand to every reader.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where a campaign deck or brochure is checked before the client handoff.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where a digital feature, press pack or companion document goes to every kind of reader.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where an annual review or appeal pack has to reach members and funders who read with assistive software.
-- [Education](https://fullypowered.ai/industries/education/), where course handbooks and slide decks have to work for every learner.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a steady flow of reports and decks built from the same templates.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more documents go out than anyone has time to check by hand.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), where the designer checks the file before it leaves the studio.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), which owns the reports, guides and brochures that carry the brand to every reader.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), where a campaign deck or brochure is checked before the client handoff.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), where a digital feature, press pack or companion document goes to every kind of reader.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), where an annual review or appeal pack has to reach members and funders who read with assistive software.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), where course handbooks and slide decks have to work for every learner.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), with a steady flow of reports and decks built from the same templates.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review), when more documents go out than anyone has time to check by hand.
 
-It reviews one document. A task that runs across several screens of a website or app, such as signing up or paying, is a different piece of work ([journey accessibility findings](https://fullypowered.ai/workflows/journey-accessibility-findings/)), and so is checking print artwork against product facts ([packaging artwork handoff check](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/)).
+It reviews one document. A task that runs across several screens of a website or app, such as signing up or paying, is a different piece of work ([journey accessibility findings](https://fullypowered.ai/workflows/journey-accessibility-findings/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review)), and so is checking print artwork against product facts ([packaging artwork handoff check](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review)).
 
 ## What has to change for your company
 
@@ -93,8 +100,8 @@ Testing in your environment means running it on a document your designer has alr
 
 - [Journey accessibility findings](../journey-accessibility-findings/)
 - [Design handoff record](../design-handoff-record/)
-- [Packaging artwork handoff check](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/)
+- [Packaging artwork handoff check](https://fullypowered.ai/workflows/packaging-artwork-handoff-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-document-accessibility-review&from=gh-design-document-accessibility-review).

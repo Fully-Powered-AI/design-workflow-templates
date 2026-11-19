@@ -1,10 +1,17 @@
 # Component specification
 
-When an approved reusable component needs documenting, the design-system owner gets one specification of its variants, states, usage rules and accessibility notes, set beside the existing patterns, with every gap or clash written as a choice for the owner.
+Turn an approved component design into one specification of variants, states, usage and accessibility, with gaps as choices for the owner.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-specification/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Component specification on our website](https://fullypowered.ai/workflows/component-specification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/component-specification/?from=gh-design-component-specification)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-specification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification)*
 
 ## The outcome
 
@@ -36,15 +43,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a reusable component is only reusable once it is written down.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the implementing engineer needs variants, states and rules in one place.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where product teams add components faster than anyone documents them.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where storefront and checkout teams often need their own variant of a shared pattern.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies maintain brand libraries and need each pattern spelled out for the next team.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the first design system is written down for the first time.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more teams build on the library and unwritten rules stop travelling.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where a reusable component is only reusable once it is written down.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where the implementing engineer needs variants, states and rules in one place.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where product teams add components faster than anyone documents them.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where storefront and checkout teams often need their own variant of a shared pattern.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where agencies maintain brand libraries and need each pattern spelled out for the next team.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where the first design system is written down for the first time.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), where more teams build on the library and unwritten rules stop travelling.
 
-It documents one approved component. It is a different piece of work from [Design handoff record](https://fullypowered.ai/workflows/design-handoff-record/), which records every state, token and breakpoint of a whole approved design before the build, and from [Component inventory audit](https://fullypowered.ai/workflows/component-inventory-audit/), which lists every component in a library and its gaps. Once the choices are made, [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/) can turn the specification into checks for a story.
+It documents one approved component. It is a different piece of work from [Design handoff record](https://fullypowered.ai/workflows/design-handoff-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), which records every state, token and breakpoint of a whole approved design before the build, and from [Component inventory audit](https://fullypowered.ai/workflows/component-inventory-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification), which lists every component in a library and its gaps. Once the choices are made, [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification) can turn the specification into checks for a story.
 
 ## What has to change for your company
 
@@ -83,8 +90,8 @@ Testing in your environment means running it on a component that is already docu
 
 - [Design handoff record](../design-handoff-record/)
 - [Component inventory audit](../component-inventory-audit/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-specification&from=gh-design-component-specification).

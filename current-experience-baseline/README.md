@@ -1,10 +1,17 @@
 # Current experience baseline
 
-Before a redesign, the design lead gets a baseline built from the captures and page list they supply: each page read with its content and design observations, the patterns that recur, and the pages outside the evidence. The lead confirms the baseline and sets the scope.
+Before a redesign, get a baseline built from your captures and page list: each page read, recurring patterns, and gaps. The design lead sets the scope.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/current-experience-baseline/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Current experience baseline on our website](https://fullypowered.ai/workflows/current-experience-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/current-experience-baseline/?from=gh-design-current-experience-baseline)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/current-experience-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)*
 
 ## The outcome
 
@@ -34,16 +41,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a redesign has to start from what exists.
-- [Product management](https://fullypowered.ai/functions/product-management/), where scope depends on knowing what the current experience contains.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where products and marketing sites grow page by page.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where storefront, product and checkout pages are built at different times.
-- [Education](https://fullypowered.ai/industries/education/), where a site spans admissions, programs and student services.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a firm's site mixes practice pages, people pages and insights.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a site built for a smaller company has to carry a larger one.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when a long-lived site has never been written down.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where a redesign has to start from what exists.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where scope depends on knowing what the current experience contains.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where products and marketing sites grow page by page.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where storefront, product and checkout pages are built at different times.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where a site spans admissions, programs and student services.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), where a firm's site mixes practice pages, people pages and insights.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), when a site built for a smaller company has to carry a larger one.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline), when a long-lived site has never been written down.
 
-It records a site's pages and patterns from captures. It does not audit an old campaign's assets ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/)), plan how files in a shared folder are organized ([shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)), or look inside a design library ([component inventory audit](https://fullypowered.ai/workflows/component-inventory-audit/)). It proposes no design and ranks nothing.
+It records a site's pages and patterns from captures. It does not audit an old campaign's assets ([inherited campaign audit](https://fullypowered.ai/workflows/inherited-campaign-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)), plan how files in a shared folder are organized ([shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)), or look inside a design library ([component inventory audit](https://fullypowered.ai/workflows/component-inventory-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)). It proposes no design and ranks nothing.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ It records a site's pages and patterns from captures. It does not audit an old c
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a small section of a site the design lead already knows, with cases written in advance: a page behind a sign-in, a page that shows different content to different people, a capture that stops partway down, a page listed with no capture, and two pages that give different answers to the same question. The design lead checks every record against the capture it names before anyone relies on the baseline. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a small section of a site the design lead already knows, with cases written in advance: a page behind a sign-in, a page that shows different content to different people, a capture that stops partway down, a page listed with no capture, and two pages that give different answers to the same question. The design lead checks every record against the capture it names before anyone relies on the baseline. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,9 +93,9 @@ Testing in your environment means running it on a small section of a site the de
 ## Related workflow templates
 
 - [Component inventory audit](../component-inventory-audit/)
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-current-experience-baseline&from=gh-design-current-experience-baseline).

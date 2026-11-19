@@ -1,10 +1,17 @@
 # Design handoff record
 
-Before engineering starts, the design owner gets one record built from the approved design: every state, token, breakpoint and content rule either covered or flagged, with each unstated behaviour written as a question. The engineer confirms the questions are resolved.
+One record from the approved design, with every state, token and rule covered or asked as a question. The design owner answers; the engineer confirms.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-handoff-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Design handoff record on our website](https://fullypowered.ai/workflows/design-handoff-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/design-handoff-record/?from=gh-design-design-handoff-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-handoff-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record)*
 
 ## The outcome
 
@@ -37,15 +44,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where the approved design is the last thing the design owner controls before building starts.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the engineer needs the answers before estimating, not after the first pull request.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where design and engineering hand work back and forth every sprint.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where long product names, empty carts and failed payments are the screens customers meet most.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where an agency hands an approved design to a client's engineers.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where one designer and a few engineers cannot afford a week of back-and-forth.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more teams build from the same design library and the unwritten rules stop travelling by word of mouth.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where the approved design is the last thing the design owner controls before building starts.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where the engineer needs the answers before estimating, not after the first pull request.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where design and engineering hand work back and forth every sprint.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where long product names, empty carts and failed payments are the screens customers meet most.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where an agency hands an approved design to a client's engineers.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where one designer and a few engineers cannot afford a week of back-and-forth.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), where more teams build from the same design library and the unwritten rules stop travelling by word of mouth.
 
-It is a different piece of work from [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/), which turns one story into testable expectations, and from [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/), which checks a finished project before a receiving team takes it on. This one records what an approved design says and leaves open, before anything is built. It is also separate from [Component specification](https://fullypowered.ai/workflows/component-specification/), which documents one approved component in full for the design library.
+It is a different piece of work from [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), which turns one story into testable expectations, and from [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), which checks a finished project before a receiving team takes it on. This one records what an approved design says and leaves open, before anything is built. It is also separate from [Component specification](https://fullypowered.ai/workflows/component-specification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record), which documents one approved component in full for the design library.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Fix the column headers of your design inventory once, and decide who exports it 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; it was run twice, and the record of the second run, which was not blind, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a design that has already been built, with cases written in advance: a state the library documents but the design does not show, a token that is not in the list, a screen with no tablet layout, a content field with no length. The design owner checks every line against the design before anyone relies on the record. [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/) is the place to turn the answered record into checks for a story.
+Testing in your environment means running it on a design that has already been built, with cases written in advance: a state the library documents but the design does not show, a token that is not in the list, a screen with no tablet layout, a content field with no length. The design owner checks every line against the design before anyone relies on the record. [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record) is the place to turn the answered record into checks for a story.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on a design that has already been b
 
 ## Related workflow templates
 
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
-- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record)
 - [Component specification](../component-specification/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-design-handoff-record&from=gh-design-design-handoff-record).

@@ -1,10 +1,17 @@
 # Journey accessibility findings
 
-When a user journey is ready for accessibility review, the reviewer gets a finding list: each finding with its task impact and evidence, the manual checks still required and the limits of the review. The reviewer verifies every finding and agrees fixes with the design owner.
+Turn a reviewer's notes on a whole user journey into a finding list with task impact, evidence and checks still owed. The reviewer verifies each.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/journey-accessibility-findings/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Journey accessibility findings on our website](https://fullypowered.ai/workflows/journey-accessibility-findings/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/journey-accessibility-findings/?from=gh-design-journey-accessibility-findings)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/journey-accessibility-findings/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings)*
 
 ## The outcome
 
@@ -39,16 +46,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a journey is reviewed as a whole before it is released.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), which receives agreed fixes with the evidence behind them.
-- [Product management](https://fullypowered.ai/functions/product-management/), where the owner of a journey needs to see what stands between a person and the end of the task.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where sign-up and account journeys change often.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where search, choose, pay and confirm is a journey whose failure costs sales.
-- [Education](https://fullypowered.ai/industries/education/), where enrolment and course journeys must work for every learner.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when journeys multiply faster than anyone can review them.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a new service launches with journeys no one has yet walked with a keyboard.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), where a journey is reviewed as a whole before it is released.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), which receives agreed fixes with the evidence behind them.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), where the owner of a journey needs to see what stands between a person and the end of the task.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), where sign-up and account journeys change often.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), where search, choose, pay and confirm is a journey whose failure costs sales.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), where enrolment and course journeys must work for every learner.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), when journeys multiply faster than anyone can review them.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings), when a new service launches with journeys no one has yet walked with a keyboard.
 
-It is not a check of one form's fields ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)), and it is not a test with participants ([usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)).
+It is not a check of one form's fields ([lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings)), and it is not a test with participants ([usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings)).
 
 ## What has to change for your company
 
@@ -90,10 +97,10 @@ Testing in your environment means running it on a journey your reviewer has alre
 
 ## Related workflow templates
 
-- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/)
+- [Usability test session plan](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings)
 - [Component inventory audit](../component-inventory-audit/)
-- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/)
+- [Lead form field review](https://fullypowered.ai/workflows/lead-form-field-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-journey-accessibility-findings&from=gh-design-journey-accessibility-findings).

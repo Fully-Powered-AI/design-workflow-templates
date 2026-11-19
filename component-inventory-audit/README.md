@@ -1,10 +1,17 @@
 # Component inventory audit
 
-When patterns come up for review, the design-system owner gets an inventory built from the library export and its documentation: every component with its naming, token and state gaps, and the pairs that may overlap. Nothing is merged on appearance; the owner decides.
+Get an inventory of every component in your design library with naming, token and state gaps and possible overlaps. The owner decides.
 
-*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-inventory-audit/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Component inventory audit on our website](https://fullypowered.ai/workflows/component-inventory-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/component-inventory-audit/?from=gh-design-component-inventory-audit)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/component-inventory-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)*
 
 ## The outcome
 
@@ -38,16 +45,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a design system is only as useful as it is consistent.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the same pattern coded twice becomes two things to maintain.
-- [Product management](https://fullypowered.ai/functions/product-management/), where a roadmap needs to know what the interface is already built from.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where product teams add components faster than anyone reviews them.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where storefront, checkout and campaign teams often grow their own variants.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies keep brand libraries for several clients at once.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more teams are building on the library than the owner can follow.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two products' libraries have to be compared before anyone decides what to keep.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where a design system is only as useful as it is consistent.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where the same pattern coded twice becomes two things to maintain.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where a roadmap needs to know what the interface is already built from.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where product teams add components faster than anyone reviews them.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where storefront, checkout and campaign teams often grow their own variants.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), where agencies keep brand libraries for several clients at once.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), when more teams are building on the library than the owner can follow.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit), when two products' libraries have to be compared before anyone decides what to keep.
 
-It checks a design library's components, names, tokens and states. It does not check a spreadsheet before it is shared ([spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)), describe what a data export contains ([dataset profile](https://fullypowered.ai/workflows/dataset-profile/)) or review a website's findability ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)).
+It checks a design library's components, names, tokens and states. It does not check a spreadsheet before it is shared ([spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)), describe what a data export contains ([dataset profile](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)) or review a website's findability ([website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)).
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ It checks a design library's components, names, tokens and states. It does not c
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a library the owner already knows well, with cases written in advance: a name that breaks the rule, a token that was deleted but is still used, a component with no documented states, two components that really are different, and two that really are the same. The owner checks every gap and every pair against the library itself before anyone relies on the inventory. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a library the owner already knows well, with cases written in advance: a name that breaks the rule, a token that was deleted but is still used, a component with no documented states, two components that really are different, and two that really are the same. The owner checks every gap and every pair against the library itself before anyone relies on the inventory. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,10 +96,10 @@ Testing in your environment means running it on a library the owner already know
 
 ## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
-- [Dataset profile](https://fullypowered.ai/workflows/dataset-profile/)
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)
+- [Dataset profile](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-component-inventory-audit&from=gh-design-component-inventory-audit).

@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for design and user experience teams turn the AI
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for design and user experience teams](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-readme&from=gh-design-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-readme&from=gh-design-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for design and user experience teams](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-readme&from=gh-design-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=design-readme&from=gh-design-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Plan a user study from one design question.** Open ChatGPT, Claude, Copilot or Gemini and paste the text below. Replace the square brackets with your own design question and what you know. Everything stays a draft until you approve it.
 
    ```text
-   You prepare a user research plan for me, the research lead. You prepare and I decide. Do not contact anyone, invent a participant or a result, state a finding, recommend a design or send anything. My design question, with the date the decision is taken: [question and date]. The user groups, how each can be reached and roughly how many there are: [groups]. Evidence we already hold, with dates: [evidence or none]. Permissions already given or refused, and who decides: [permissions or none]. Researcher days available: [number]. Sort my questions by type. Show what existing evidence covers. Offer method options with hours, then propose a set and check it against my time. Ask me for anything missing, list what the study cannot establish, and end with numbered decisions for me.
+   You prepare a user research plan for me, the research lead. You prepare
+   and I decide. Do not contact anyone, invent a participant or a result,
+   state a finding, recommend a design or send anything. My design
+   question, with the date the decision is taken: [question and date]. The
+   user groups, how each can be reached and roughly how many there are:
+   [groups]. Evidence we already hold, with dates: [evidence or none].
+   Permissions already given or refused, and who decides: [permissions or
+   none]. Researcher days available: [number]. Sort my questions by type.
+   Show what existing evidence covers. Offer method options with hours,
+   then propose a set and check it against my time. Ask me for anything
+   missing, list what the study cannot establish, and end with numbered
+   decisions for me.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out: a plan with decisions for you:
